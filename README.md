@@ -23,11 +23,11 @@ This is an Angular web application which is made on Angular using Spring Boot.
 ```sh
 npm install
 ```
-
 3. Run the angular application: 
 ```sh
 ng serve
 ```
+> Note: Copy pics in images1 & images2 and paste it in the src->assets->images.You can use your own pics as well.
 
 ### Backend
 
